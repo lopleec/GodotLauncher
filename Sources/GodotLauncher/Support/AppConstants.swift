@@ -5,7 +5,7 @@ enum AppConstants {
     static let executableName = "GodotLauncher"
     static let mainWindowID = "main"
     static let supportDirectoryName = executableName
-    static let defaultShortVersion = "1.7"
+    static let defaultShortVersion = "1.0"
 
     static var shortVersion: String {
         Bundle.main.object(forInfoDictionaryKey: "CFBundleShortVersionString") as? String
