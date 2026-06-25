@@ -507,6 +507,10 @@ This project is licensed under the GNU General Public License. See [LICENSE](LIC
 
 ## Acknowledgements
 
-- [Godot Engine](https://godotengine.org/)
-- [godotengine/godot-builds](https://github.com/godotengine/godot-builds)
-- [GodotHub.com](https://godothub.com/download)
+- [Godot Engine](https://godotengine.org/) for the engine, release archive, documentation, and open ecosystem that make this launcher useful.
+- [godotengine/godot-builds](https://github.com/godotengine/godot-builds) for publishing official Godot editor builds and release metadata.
+- [GodotHub.com](https://godothub.com/download) for providing an additional stable-build download source.
+- [macOS Icons](https://macosicons.com/) and the icon provider for the Godot-style app icon used by this project: [QInyKGNAEk](https://macosicons.com/?icon=QInyKGNAEk).
+- Swift, SwiftUI, AppKit, and the macOS developer tooling used to build and package the app.
+
+If any credited asset or referenced material infringes your rights, contact [me@lopleec.com](mailto:me@lopleec.com) and it will be removed or replaced promptly.
